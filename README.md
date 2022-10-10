@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Enes
 #### I am a Software Developer
+#### Currently pursuing Msc. Informatik at TUM
 
 Skills: Java / Python / C++ / HTML / SQL
 
