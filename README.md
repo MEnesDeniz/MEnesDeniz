@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Enes
-#### I Software Developer WS at adesso SE
+#### I am Software Developer WS at adesso SE
 #### Currently pursuing Msc. Informatik at TUM
 
 Skills: Java / Python / C++ / C# / HTML / SQL
