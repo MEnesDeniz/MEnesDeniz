@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Enes
 #### I am Software Engineer at Holidu
-#### I have completed Msc. Informatik at TUM & Bsc. Computer Engineering at ITU.
+#### I have completed Msc. Computer Science at TUM & Bsc. Computer Engineering at ITU.
 
 Skills: Java / Python / C++ / C# / HTML / SQL
 
