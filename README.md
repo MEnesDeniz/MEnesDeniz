@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Enes
-#### I am Software Developer WS at adesso SE
-#### Currently pursuing Msc. Informatik at TUM
+#### I am Software Engineer at Holidu
+#### I have completed Msc. Informatik at TUM & Bsc. Computer Engineering at ITU.
 
 Skills: Java / Python / C++ / C# / HTML / SQL
 
